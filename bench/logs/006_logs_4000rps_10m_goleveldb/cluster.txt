@@ -1,0 +1,77 @@
+docker-compose down
+Removing network tendermint_localnet
+Network tendermint_localnet not found.
+docker-compose up
+Creating network "tendermint_localnet" with driver "bridge"
+Creating node1 ... 
+Creating node0 ... 
+Creating node3 ... 
+Creating node2 ... 
+[1A[2KCreating node3 ... [32mdone[0m[1B[4A[2KCreating node1 ... [32mdone[0m[4B[3A[2KCreating node0 ... [32mdone[0m[3B[2A[2KCreating node2 ... [32mdone[0m[2BAttaching to node3, node1, node0, node2
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m ************* true 2122317824 0
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m ************* true 2122317824 0
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m ************* true 2122317824 0
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m ************* true 2122317824 0
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m ************* true 2122317824 0
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m ************* true 2122317824 0
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m ************* true 2122317824 0
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m ************* true 2122317824 0
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m ************* true 2122317824 0
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m ************* true 2122317824 0
+[36mnode3    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m ************* true 2122317824 0
+[33mnode1    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m E[30116-11-30|08:12:48.482] Dialing failed                               module=p2p addr=cccc7e76897fe0f0b48b1aa22a354d97652ba51f@192.167.10.3:26656 err="dial tcp 192.167.10.3:26656: connect: connection refused" attempts=0
+[33mnode1    |[0m E[30116-11-30|08:12:50.532] Dialing failed                               module=p2p addr=c882bbcf1bcc60b1765603a7bf6b604d79bcb51c@192.167.10.4:26656 err="dial tcp 192.167.10.4:26656: i/o timeout" attempts=0
+[33mnode1    |[0m E[30116-11-30|08:12:50.532] Dialing failed                               module=p2p addr=5efadea312248adf9392525a5794a2ff3e665a42@192.167.10.2:26656 err="dial tcp 192.167.10.2:26656: i/o timeout" attempts=0
+[32mnode0    |[0m ************* true 2122317824 0
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[36mnode3    |[0m E[30116-11-30|08:12:49.433] Error dialing peer                           module=p2p err="dial tcp 192.167.10.3:26656: connect: connection refused"
+[36mnode3    |[0m E[30116-11-30|08:12:49.482] Dialing failed                               module=p2p addr=c882bbcf1bcc60b1765603a7bf6b604d79bcb51c@192.167.10.4:26656 err="dial tcp 192.167.10.4:26656: i/o timeout" attempts=0
+[36mnode3    |[0m E[30116-11-30|08:12:49.482] Dialing failed                               module=p2p addr=5efadea312248adf9392525a5794a2ff3e665a42@192.167.10.2:26656 err="dial tcp 192.167.10.2:26656: i/o timeout" attempts=0
+[32mnode0    |[0m ************* true 2122317824 0
+[32mnode0    |[0m *************** memDB New capacity(Mb) 2024
+[32mnode0    |[0m E[30116-11-30|08:12:50.902] Dialing failed                               module=p2p addr=c882bbcf1bcc60b1765603a7bf6b604d79bcb51c@192.167.10.4:26656 err="dial tcp 192.167.10.4:26656: connect: connection refused" attempts=0
+[36mnode3    |[0m E[30116-11-30|08:12:50.640] Error dialing peer                           module=p2p err="dial tcp 192.167.10.2:26656: connect: connection refused"
+[36mnode3    |[0m E[30116-11-30|08:12:51.536] Error dialing peer                           module=p2p err="dial tcp 192.167.10.4:26656: connect: no route to host"
+[33mnode1    |[0m E[30116-11-30|08:12:51.572] Error dialing peer                           module=p2p err="dial tcp 192.167.10.4:26656: connect: connection refused"
+[35mnode2    |[0m ************* true 2122317824 0
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m ************* true 2122317824 0
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[35mnode2    |[0m ************* true 2122317824 0
+[35mnode2    |[0m *************** memDB New capacity(Mb) 2024
+[33mnode1    |[0m E[30116-11-30|08:13:19.534] Dialing failed                               module=p2p addr=cccc7e76897fe0f0b48b1aa22a354d97652ba51f@192.167.10.3:26656 err="self ID<cccc7e76897fe0f0b48b1aa22a354d97652ba51f>" attempts=0
+[32mnode0    |[0m E[30116-11-30|08:13:20.904] Dialing failed                               module=p2p addr=5efadea312248adf9392525a5794a2ff3e665a42@192.167.10.2:26656 err="self ID<5efadea312248adf9392525a5794a2ff3e665a42>" attempts=0
+[35mnode2    |[0m E[30116-11-30|08:13:22.100] Dialing failed                               module=p2p addr=c882bbcf1bcc60b1765603a7bf6b604d79bcb51c@192.167.10.4:26656 err="self ID<c882bbcf1bcc60b1765603a7bf6b604d79bcb51c>" attempts=0
+[36mnode3    |[0m E[30116-11-30|08:13:48.483] Dialing failed                               module=p2p addr=4c1f52a258ab4536edd4bf0bf2e177e8a1545c12@192.167.10.5:26656 err="self ID<4c1f52a258ab4536edd4bf0bf2e177e8a1545c12>" attempts=0
+Stopping node2 ... 
+Stopping node0 ... 
+Stopping node1 ... 
+Stopping node3 ... 
+[4A[2KStopping node2 ... [32mdone[0m[4B[2A[2KStopping node1 ... [32mdone[0m[2B[1A[2KStopping node3 ... [32mdone[0m[1B[3A[2KStopping node0 ... [32mdone[0m[3BGracefully stopping... (press Ctrl+C again to force)

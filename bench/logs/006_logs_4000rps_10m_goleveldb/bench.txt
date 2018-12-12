@@ -1,0 +1,933 @@
+Total time for round 0: 1.353545ms. Total test duration 1.353652ms. RPS: 738.742305998883
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "1",
+    "txs": null
+  }
+}
+Total time for round 4000: 263.361µs. Total test duration 1.004982409s. RPS: 3981.1642116016383
+Total time for round 8000: 270.986µs. Total test duration 2.008988897s. RPS: 3982.6004075720884
+Total time for round 12000: 271.682µs. Total test duration 3.013243016s. RPS: 3982.7521166649904
+Total time for round 16000: 217.836µs. Total test duration 4.014183342s. RPS: 3986.1158887744696
+Total time for round 20000: 512.494µs. Total test duration 5.170671396s. RPS: 3868.1630427090477
+Total time for round 24000: 472.904µs. Total test duration 7.150878301s. RPS: 3356.3709225262064
+Total time for round 28000: 242.653µs. Total test duration 8.448193782s. RPS: 3314.436283369808
+Total time for round 32000: 248.56µs. Total test duration 9.452693035s. RPS: 3385.3844488032714
+Total time for round 36000: 441.59µs. Total test duration 10.56132735s. RPS: 3408.75713884581
+Total time for round 40000: 242.771µs. Total test duration 11.635194822s. RPS: 3437.9312604517386
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "7845",
+    "txs": null
+  }
+}
+Total time for round 44000: 290.415µs. Total test duration 12.639977965s. RPS: 3481.0978406638387
+Total time for round 48000: 281.113µs. Total test duration 13.641282804s. RPS: 3518.803963651042
+Total time for round 52000: 217.322µs. Total test duration 14.641968907s. RPS: 3551.5032390991814
+Total time for round 56000: 194.662µs. Total test duration 15.706674717s. RPS: 3565.4268652668884
+Total time for round 60000: 285.976µs. Total test duration 17.259756519s. RPS: 3476.3526318548757
+Total time for round 64000: 238.052µs. Total test duration 18.269945914s. RPS: 3503.075504506937
+Total time for round 68000: 261.776µs. Total test duration 19.271974142s. RPS: 3528.4916583508357
+Total time for round 72000: 252.795µs. Total test duration 20.274479773s. RPS: 3551.311836661053
+Total time for round 76000: 502.293µs. Total test duration 21.478185354s. RPS: 3538.5205382747067
+Total time for round 80000: 235.051µs. Total test duration 23.134751598s. RPS: 3458.044477422273
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "7918",
+    "txs": null
+  }
+}
+Total time for round 84000: 229.024µs. Total test duration 24.140248632s. RPS: 3479.707325327601
+Total time for round 88000: 207.92µs. Total test duration 25.149699626s. RPS: 3499.0875162987522
+Total time for round 92000: 270.336µs. Total test duration 26.173261676s. RPS: 3515.0758487377148
+Total time for round 96000: 495.237µs. Total test duration 27.842214178s. RPS: 3448.0375514048314
+Total time for round 100000: 277.889µs. Total test duration 29.278073494s. RPS: 3415.559429499122
+Total time for round 104000: 244.774µs. Total test duration 30.28370956s. RPS: 3434.222607172567
+Total time for round 108000: 245.74µs. Total test duration 31.304464182s. RPS: 3450.0191209821232
+Total time for round 112000: 421.141µs. Total test duration 32.630965563s. RPS: 3432.353228523433
+Total time for round 116000: 256.187µs. Total test duration 33.77597212s. RPS: 3434.423725477661
+Total time for round 120000: 235.342µs. Total test duration 34.791459217s. RPS: 3449.151104917279
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "12882",
+    "txs": null
+  }
+}
+Total time for round 124000: 234.094µs. Total test duration 35.808220533s. RPS: 3462.9199148760727
+Total time for round 128000: 286.021µs. Total test duration 36.834223737s. RPS: 3475.0562659862144
+Total time for round 132000: 302.407µs. Total test duration 38.004581452s. RPS: 3473.291770538718
+Total time for round 136000: 237.037µs. Total test duration 39.044697795s. RPS: 3483.2130271326128
+Total time for round 140000: 259.243µs. Total test duration 40.077564451s. RPS: 3493.251197217069
+Total time for round 144000: 283.822µs. Total test duration 41.105022572s. RPS: 3503.2458563370524
+Total time for round 148000: 242.701µs. Total test duration 42.115264159s. RPS: 3514.189046547208
+Total time for round 152000: 242.069µs. Total test duration 43.201224739s. RPS: 3518.441917290849
+Total time for round 156000: 276.42µs. Total test duration 44.398372803s. RPS: 3513.6648068656023
+Total time for round 160000: 268.998µs. Total test duration 45.459743751s. RPS: 3519.619487438936
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "11380",
+    "txs": null
+  }
+}
+Total time for round 164000: 255.527µs. Total test duration 46.522611001s. RPS: 3525.189074114409
+Total time for round 168000: 233.655µs. Total test duration 47.56071854s. RPS: 3532.347810487894
+Total time for round 172000: 289.692µs. Total test duration 48.633443048s. RPS: 3536.6815347669153
+Total time for round 176000: 335.458µs. Total test duration 49.969496684s. RPS: 3522.168756531716
+Total time for round 180000: 266.507µs. Total test duration 51.080637083s. RPS: 3523.8597300092333
+Total time for round 184000: 270.81µs. Total test duration 52.212313985s. RPS: 3524.092037998189
+Total time for round 188000: 259.692µs. Total test duration 53.221967681s. RPS: 3532.394764636173
+Total time for round 192000: 276.845µs. Total test duration 54.269730921s. RPS: 3537.9021922827346
+Total time for round 196000: 305.785µs. Total test duration 55.87385278s. RPS: 3507.9198989864253
+Total time for round 200000: 327.518µs. Total test duration 57.21971313s. RPS: 3495.3163701748886
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "12010",
+    "txs": null
+  }
+}
+Total time for round 204000: 317.307µs. Total test duration 58.579334478s. RPS: 3482.4738419760374
+Total time for round 208000: 178.451µs. Total test duration 59.755776545s. RPS: 3480.851760722441
+Total time for round 212000: 330.726µs. Total test duration 1m1.106774113s. RPS: 3469.353489483229
+Total time for round 216000: 296.849µs. Total test duration 1m2.312488943s. RPS: 3466.4158608330617
+Total time for round 220000: 257.606µs. Total test duration 1m3.319954276s. RPS: 3474.4339681778074
+Total time for round 224000: 238.101µs. Total test duration 1m4.326706696s. RPS: 3482.2395161406416
+Total time for round 228000: 240.068µs. Total test duration 1m5.433987863s. RPS: 3484.4429851557984
+Total time for round 232000: 439.522µs. Total test duration 1m6.781702705s. RPS: 3474.02043677796
+Total time for round 236000: 259.496µs. Total test duration 1m8.114860511s. RPS: 3464.7505438536095
+Total time for round 240000: 288.472µs. Total test duration 1m9.246859699s. RPS: 3465.875579675794
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "15021",
+    "txs": null
+  }
+}
+Total time for round 244000: 306.262µs. Total test duration 1m10.354490628s. RPS: 3468.1652560055827
+Total time for round 248000: 225.73µs. Total test duration 1m11.48684922s. RPS: 3469.183531040508
+Total time for round 252000: 228.98µs. Total test duration 1m12.516806894s. RPS: 3475.070273962248
+Total time for round 256000: 231.355µs. Total test duration 1m13.547884656s. RPS: 3480.7391293083992
+Total time for round 260000: 213.5µs. Total test duration 1m14.551958162s. RPS: 3487.5140292763704
+Total time for round 264000: 214.905µs. Total test duration 1m15.560683629s. RPS: 3493.8937463328757
+Total time for round 268000: 314.965µs. Total test duration 1m16.783579598s. RPS: 3490.342614959054
+Total time for round 272000: 278.302µs. Total test duration 1m17.823479259s. RPS: 3495.1020256337883
+Total time for round 276000: 244.828µs. Total test duration 1m18.824754929s. RPS: 3501.4507847008595
+Total time for round 280000: 264.873µs. Total test duration 1m19.832374813s. RPS: 3507.3615266472607
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "16852",
+    "txs": null
+  }
+}
+Total time for round 284000: 304.297µs. Total test duration 1m20.835210498s. RPS: 3513.3328440707983
+Total time for round 288000: 190.457µs. Total test duration 1m21.913956909s. RPS: 3515.89656839489
+Total time for round 292000: 260.116µs. Total test duration 1m22.950738985s. RPS: 3520.1735822124815
+Total time for round 296000: 226.042µs. Total test duration 1m23.962233952s. RPS: 3525.4064365321615
+Total time for round 300000: 253.396µs. Total test duration 1m24.968974596s. RPS: 3530.7122561665333
+Total time for round 304000: 236.249µs. Total test duration 1m26.003715237s. RPS: 3534.742646434122
+Total time for round 308000: 254.993µs. Total test duration 1m27.038692178s. RPS: 3538.6676004979163
+Total time for round 312000: 408.025µs. Total test duration 1m28.600500577s. RPS: 3521.4360863441107
+Total time for round 316000: 314.79µs. Total test duration 1m30.010904303s. RPS: 3510.6968699732074
+Total time for round 320000: 235.453µs. Total test duration 1m31.195947683s. RPS: 3508.9388084691395
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "14534",
+    "txs": null
+  }
+}
+Total time for round 324000: 259.992µs. Total test duration 1m32.217920373s. RPS: 3513.4277447321674
+Total time for round 328000: 263.263µs. Total test duration 1m33.350499863s. RPS: 3513.650173072132
+Total time for round 332000: 231.842µs. Total test duration 1m34.398446015s. RPS: 3517.0176418714004
+Total time for round 336000: 235.888µs. Total test duration 1m35.404694764s. RPS: 3521.84974577149
+Total time for round 340000: 247.667µs. Total test duration 1m36.409694644s. RPS: 3526.626666078335
+Total time for round 344000: 248.022µs. Total test duration 1m37.414961193s. RPS: 3531.295355324938
+Total time for round 348000: 326.688µs. Total test duration 1m38.4597577s. RPS: 3534.449079799025
+Total time for round 352000: 501.852µs. Total test duration 1m40.16559412s. RPS: 3514.1907068239134
+Total time for round 356000: 240.57µs. Total test duration 1m41.473964255s. RPS: 3508.2989278450164
+Total time for round 360000: 223.617µs. Total test duration 1m42.479939801s. RPS: 3512.892383612496
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "15906",
+    "txs": null
+  }
+}
+Total time for round 364000: 285.63µs. Total test duration 1m43.493223174s. RPS: 3517.1481652283283
+Total time for round 368000: 474.041µs. Total test duration 1m44.903354601s. RPS: 3508.000305611695
+Total time for round 372000: 245.04µs. Total test duration 1m46.825581205s. RPS: 3482.321329814477
+Total time for round 376000: 270.07µs. Total test duration 1m47.873568875s. RPS: 3485.571154465988
+Total time for round 380000: 182.648µs. Total test duration 1m48.932546584s. RPS: 3488.4064672716877
+Total time for round 384000: 381.404µs. Total test duration 1m50.195050278s. RPS: 3484.739097003382
+Total time for round 388000: 231.735µs. Total test duration 1m51.292781742s. RPS: 3486.308760791582
+Total time for round 392000: 255.292µs. Total test duration 1m52.382861576s. RPS: 3488.0852338406203
+Total time for round 396000: 237.956µs. Total test duration 1m53.406440858s. RPS: 3491.8739800312233
+Total time for round 400000: 245.246µs. Total test duration 1m54.419201833s. RPS: 3495.925453000621
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "20924",
+    "txs": null
+  }
+}
+Total time for round 404000: 289.457µs. Total test duration 1m55.747773973s. RPS: 3490.356541061771
+Total time for round 408000: 261.202µs. Total test duration 1m56.835870513s. RPS: 3492.086789857939
+Total time for round 412000: 247.595µs. Total test duration 1m57.938897039s. RPS: 3493.3428270383065
+Total time for round 416000: 247.203µs. Total test duration 1m59.007260483s. RPS: 3495.5934479260204
+Total time for round 420000: 250.384µs. Total test duration 2m0.03269883s. RPS: 3499.054874995682
+Total time for round 424000: 446.552µs. Total test duration 2m1.41895739s. RPS: 3492.049422217494
+Total time for round 428000: 338.8µs. Total test duration 2m2.592476004s. RPS: 3491.250148059943
+Total time for round 432000: 254.457µs. Total test duration 2m3.644658315s. RPS: 3493.8913325266685
+Total time for round 436000: 276.229µs. Total test duration 2m4.707084887s. RPS: 3496.2007202323002
+Total time for round 440000: 1.973439ms. Total test duration 2m5.740153698s. RPS: 3499.2879128872783
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "21685",
+    "txs": null
+  }
+}
+Total time for round 444000: 302.452µs. Total test duration 2m6.976091499s. RPS: 3496.7291460809906
+Total time for round 448000: 237.196µs. Total test duration 2m8.080506207s. RPS: 3497.807849665692
+Total time for round 452000: 252.549µs. Total test duration 2m9.091007779s. RPS: 3501.4135204042436
+Total time for round 456000: 273.906µs. Total test duration 2m10.097985829s. RPS: 3505.058107504946
+Total time for round 460000: 254.937µs. Total test duration 2m11.114944803s. RPS: 3508.3796182895153
+Total time for round 464000: 318.48µs. Total test duration 2m12.247035197s. RPS: 3508.5928339248376
+Total time for round 468000: 350.543µs. Total test duration 2m13.673252473s. RPS: 3501.0818644854116
+Total time for round 472000: 279.909µs. Total test duration 2m14.808800041s. RPS: 3501.2625277908282
+Total time for round 476000: 262.883µs. Total test duration 2m15.915516746s. RPS: 3502.182910355662
+Total time for round 480000: 241.486µs. Total test duration 2m16.99170718s. RPS: 3503.869028869781
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "21715",
+    "txs": null
+  }
+}
+Total time for round 484000: 786.44µs. Total test duration 2m18.278397266s. RPS: 3500.1924347513864
+Total time for round 488000: 279.948µs. Total test duration 2m19.973947351s. RPS: 3486.370208423744
+Total time for round 492000: 329.962µs. Total test duration 2m21.126711388s. RPS: 3486.2358455114886
+Total time for round 496000: 294.501µs. Total test duration 2m22.270247443s. RPS: 3486.329776706973
+Total time for round 500000: 418.115µs. Total test duration 2m23.508648494s. RPS: 3484.1175444621704
+Total time for round 504000: 445.135µs. Total test duration 2m25.35936466s. RPS: 3467.2757491674083
+Total time for round 508000: 282.635µs. Total test duration 2m26.720987606s. RPS: 3462.360827097008
+Total time for round 512000: 249.25µs. Total test duration 2m27.996770205s. RPS: 3459.541713584654
+Total time for round 516000: 431.254µs. Total test duration 2m29.191065473s. RPS: 3458.6588571108755
+Total time for round 520000: 257.246µs. Total test duration 2m30.346434911s. RPS: 3458.685271172695
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "8384",
+    "txs": null
+  }
+}
+Total time for round 524000: 255.195µs. Total test duration 2m31.460574973s. RPS: 3459.6527848478763
+Total time for round 528000: 233.152µs. Total test duration 2m32.493507936s. RPS: 3462.4490389557877
+Total time for round 532000: 245.28µs. Total test duration 2m33.50471364s. RPS: 3465.6981364601697
+Total time for round 536000: 382.562µs. Total test duration 2m34.62657903s. RPS: 3466.4221595176555
+Total time for round 540000: 414.964µs. Total test duration 2m36.486107684s. RPS: 3450.791945636799
+Total time for round 544000: 388.994µs. Total test duration 2m38.147928246s. RPS: 3439.8237525679333
+Total time for round 548000: 288.996µs. Total test duration 2m39.363896107s. RPS: 3438.6772248091975
+Total time for round 552000: 320.934µs. Total test duration 2m40.602172911s. RPS: 3437.070557606336
+Total time for round 556000: 372.809µs. Total test duration 2m42.017240783s. RPS: 3431.739716791545
+Total time for round 560000: 508.518µs. Total test duration 2m43.428497469s. RPS: 3426.5810961532216
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "13723",
+    "txs": null
+  }
+}
+Total time for round 564000: 282.248µs. Total test duration 2m44.63409272s. RPS: 3425.7849676325536
+Total time for round 568000: 239.148µs. Total test duration 2m45.731905282s. RPS: 3427.2278414558846
+Total time for round 572000: 234.857µs. Total test duration 2m46.774552614s. RPS: 3429.7858458292335
+Total time for round 576000: 260.457µs. Total test duration 2m47.836743649s. RPS: 3431.912389843557
+Total time for round 580000: 222.907µs. Total test duration 2m48.86471492s. RPS: 3434.708075483837
+Total time for round 584000: 240.703µs. Total test duration 2m49.875228028s. RPS: 3437.8231998825686
+Total time for round 588000: 185.31µs. Total test duration 2m50.960572175s. RPS: 3439.395367711485
+Total time for round 592000: 374.016µs. Total test duration 2m52.291414972s. RPS: 3436.0446810202893
+Total time for round 596000: 242.458µs. Total test duration 2m53.516246787s. RPS: 3434.84262157665
+Total time for round 600000: 224.318µs. Total test duration 2m54.540192589s. RPS: 3437.6093614887745
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "15097",
+    "txs": null
+  }
+}
+Total time for round 604000: 261.467µs. Total test duration 2m55.55246626s. RPS: 3440.572569943
+Total time for round 608000: 306.643µs. Total test duration 2m56.701387373s. RPS: 3440.838858364859
+Total time for round 612000: 232.256µs. Total test duration 2m57.766262624s. RPS: 3442.7286199657915
+Total time for round 616000: 251.977µs. Total test duration 2m58.775208249s. RPS: 3445.6735138690333
+Total time for round 620000: 249.777µs. Total test duration 2m59.777192504s. RPS: 3448.718891225343
+Total time for round 624000: 255.12µs. Total test duration 3m0.78396451s. RPS: 3451.6390969260087
+Total time for round 628000: 248.437µs. Total test duration 3m1.89952278s. RPS: 3452.4609542793655
+Total time for round 632000: 271.934µs. Total test duration 3m2.983253844s. RPS: 3453.8734377234555
+Total time for round 636000: 227.029µs. Total test duration 3m3.985992886s. RPS: 3456.7903242181815
+Total time for round 640000: 264.049µs. Total test duration 3m4.988966878s. RPS: 3459.6711944560448
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "14307",
+    "txs": null
+  }
+}
+Total time for round 644000: 245.096µs. Total test duration 3m5.991201331s. RPS: 3462.5347618132805
+Total time for round 648000: 244.024µs. Total test duration 3m7.006451922s. RPS: 3465.1264346231214
+Total time for round 652000: 451.513µs. Total test duration 3m8.282985391s. RPS: 3462.877958122529
+Total time for round 656000: 279.256µs. Total test duration 3m10.110987376s. RPS: 3450.621182154856
+Total time for round 660000: 266.385µs. Total test duration 3m11.136011959s. RPS: 3453.043689859841
+Total time for round 664000: 227.662µs. Total test duration 3m12.145196515s. RPS: 3455.7252121999527
+Total time for round 668000: 257.714µs. Total test duration 3m13.238728643s. RPS: 3456.869151908478
+Total time for round 672000: 312.034µs. Total test duration 3m14.673362413s. RPS: 3451.941198685151
+Total time for round 676000: 249.703µs. Total test duration 3m15.73479105s. RPS: 3453.6578621187336
+Total time for round 680000: 240.345µs. Total test duration 3m16.760471788s. RPS: 3455.9837848562825
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "15555",
+    "txs": null
+  }
+}
+Total time for round 684000: 252.266µs. Total test duration 3m17.762220447s. RPS: 3458.7040864223677
+Total time for round 688000: 281.345µs. Total test duration 3m18.857008593s. RPS: 3459.7774796468425
+Total time for round 692000: 328.692µs. Total test duration 3m20.455157406s. RPS: 3452.148644888331
+Total time for round 696000: 227.992µs. Total test duration 3m21.676320089s. RPS: 3451.079431104524
+Total time for round 700000: 250.342µs. Total test duration 3m22.746211044s. RPS: 3452.597197232385
+Total time for round 704000: 246.529µs. Total test duration 3m23.824008924s. RPS: 3453.9650344258575
+Total time for round 708000: 327.302µs. Total test duration 3m25.448324735s. RPS: 3446.1269076456265
+Total time for round 712000: 215.765µs. Total test duration 3m26.674958082s. RPS: 3445.027915367994
+Total time for round 716000: 260.607µs. Total test duration 3m27.688956768s. RPS: 3447.4678439442137
+Total time for round 720000: 190.128µs. Total test duration 3m28.693400749s. RPS: 3450.0420109879783
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "18745",
+    "txs": null
+  }
+}
+Total time for round 724000: 500.283µs. Total test duration 3m29.80935476s. RPS: 3450.756525266386
+Total time for round 728000: 226.489µs. Total test duration 3m31.152945866s. RPS: 3447.742568848637
+Total time for round 732000: 200.727µs. Total test duration 3m32.206926059s. RPS: 3449.467996141094
+Total time for round 736000: 278.499µs. Total test duration 3m33.26096212s. RPS: 3451.1754644802686
+Total time for round 740000: 231.601µs. Total test duration 3m34.284387214s. RPS: 3453.359386659286
+Total time for round 744000: 241.408µs. Total test duration 3m35.317460979s. RPS: 3455.3677004047654
+Total time for round 748000: 266.574µs. Total test duration 3m36.329108954s. RPS: 3457.69926024636
+Total time for round 752000: 249.002µs. Total test duration 3m37.339949699s. RPS: 3460.0219657797224
+Total time for round 756000: 273.649µs. Total test duration 3m38.34399587s. RPS: 3462.4309085655646
+Total time for round 760000: 241.499µs. Total test duration 3m39.350186961s. RPS: 3464.783917121195
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "20603",
+    "txs": null
+  }
+}
+Total time for round 764000: 196.925µs. Total test duration 3m40.421203317s. RPS: 3466.0957680248557
+Total time for round 768000: 223.514µs. Total test duration 3m41.499941778s. RPS: 3467.2740490818496
+Total time for round 772000: 240.235µs. Total test duration 3m42.517701549s. RPS: 3469.391399542206
+Total time for round 776000: 309.918µs. Total test duration 3m43.522216078s. RPS: 3471.695179190635
+Total time for round 780000: 256.873µs. Total test duration 3m44.52370361s. RPS: 3474.0251806770025
+Total time for round 784000: 252.3µs. Total test duration 3m45.529479237s. RPS: 3476.2683913978462
+Total time for round 788000: 349.466µs. Total test duration 3m46.654232279s. RPS: 3476.6657215119208
+Total time for round 792000: 309.246µs. Total test duration 3m48.090601577s. RPS: 3472.3087866144815
+Total time for round 796000: 241.233µs. Total test duration 3m49.266772237s. RPS: 3471.942280310684
+Total time for round 800000: 257.816µs. Total test duration 3m50.276458158s. RPS: 3474.0893897677283
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "16490",
+    "txs": null
+  }
+}
+Total time for round 804000: 245.732µs. Total test duration 3m51.285445274s. RPS: 3476.2282557275207
+Total time for round 808000: 300.055µs. Total test duration 3m52.52051768s. RPS: 3474.9664591405617
+Total time for round 812000: 284.125µs. Total test duration 3m53.661612522s. RPS: 3475.115108706816
+Total time for round 816000: 254.597µs. Total test duration 3m54.781427523s. RPS: 3475.577300168097
+Total time for round 820000: 213.357µs. Total test duration 3m55.897248777s. RPS: 3476.0939529870016
+Total time for round 824000: 197.968µs. Total test duration 3m56.907074769s. RPS: 3478.1612191339377
+Total time for round 828000: 503.371µs. Total test duration 3m58.466894779s. RPS: 3472.1842659432987
+Total time for round 832000: 266.967µs. Total test duration 3m59.614449958s. RPS: 3472.2488570527967
+Total time for round 836000: 239.179µs. Total test duration 4m0.726426259s. RPS: 3472.8260332354957
+Total time for round 840000: 233.389µs. Total test duration 4m1.812935943s. RPS: 3473.7637038491794
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "18023",
+    "txs": null
+  }
+}
+Total time for round 844000: 233.642µs. Total test duration 4m2.889495358s. RPS: 3474.835331005192
+Total time for round 848000: 253.913µs. Total test duration 4m4.731913535s. RPS: 3465.0201020012223
+Total time for round 852000: 302.681µs. Total test duration 4m5.837703756s. RPS: 3465.7051663874636
+Total time for round 856000: 293.686µs. Total test duration 4m6.924410411s. RPS: 3466.6519951397518
+Total time for round 860000: 219.752µs. Total test duration 4m7.988465599s. RPS: 3467.9072590038554
+Total time for round 864000: 280.42µs. Total test duration 4m9.185906574s. RPS: 3467.2948076356
+Total time for round 868000: 291.908µs. Total test duration 4m10.36775484s. RPS: 3466.90411692474
+Total time for round 872000: 305.794µs. Total test duration 4m11.432983741s. RPS: 3468.1249334345266
+Total time for round 876000: 231.322µs. Total test duration 4m12.438439065s. RPS: 3470.1569350713653
+Total time for round 880000: 255.807µs. Total test duration 4m13.448950528s. RPS: 3472.1035465592945
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "21719",
+    "txs": null
+  }
+}
+Total time for round 884000: 456.295µs. Total test duration 4m14.698513044s. RPS: 3470.7740906492295
+Total time for round 888000: 264.846µs. Total test duration 4m16.077281469s. RPS: 3467.707072278877
+Total time for round 892000: 242.259µs. Total test duration 4m17.094209014s. RPS: 3469.5491719590864
+Total time for round 896000: 261.815µs. Total test duration 4m18.099202515s. RPS: 3471.537266559074
+Total time for round 900000: 265.777µs. Total test duration 4m19.131967442s. RPS: 3473.137679168982
+Total time for round 904000: 245.659µs. Total test duration 4m20.429532616s. RPS: 3471.192344890231
+Total time for round 908000: 219.769µs. Total test duration 4m21.440505418s. RPS: 3473.069326224936
+Total time for round 912000: 246.221µs. Total test duration 4m22.454782617s. RPS: 3474.8880965559774
+Total time for round 916000: 282.792µs. Total test duration 4m23.466490128s. RPS: 3476.726772937913
+Total time for round 920000: 209.345µs. Total test duration 4m24.474925857s. RPS: 3478.5944150238233
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "21349",
+    "txs": null
+  }
+}
+Total time for round 924000: 347.589µs. Total test duration 4m25.732032881s. RPS: 3477.190875267137
+Total time for round 928000: 345.003µs. Total test duration 4m27.156671473s. RPS: 3473.6209089720887
+Total time for round 932000: 371.374µs. Total test duration 4m28.581137219s. RPS: 3470.0910482780855
+Total time for round 936000: 209.885µs. Total test duration 4m29.632739932s. RPS: 3471.392236106248
+Total time for round 940000: 266.25µs. Total test duration 4m30.723507181s. RPS: 3472.1809339280435
+Total time for round 944000: 289.201µs. Total test duration 4m32.137557894s. RPS: 3468.8376250061624
+Total time for round 948000: 252.558µs. Total test duration 4m33.170949759s. RPS: 3470.358033445197
+Total time for round 952000: 251.642µs. Total test duration 4m34.176944457s. RPS: 3472.2139087420796
+Total time for round 956000: 248.93µs. Total test duration 4m35.205743727s. RPS: 3473.768341653286
+Total time for round 960000: 291.999µs. Total test duration 4m36.430314548s. RPS: 3472.8499353253937
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "3769",
+    "txs": null
+  }
+}
+Total time for round 964000: 259.165µs. Total test duration 4m37.766167065s. RPS: 3470.5486639573865
+Total time for round 968000: 298.039µs. Total test duration 4m38.877151905s. RPS: 3471.0659994467787
+Total time for round 972000: 205.088µs. Total test duration 4m39.889423531s. RPS: 3472.803608430538
+Total time for round 976000: 256.865µs. Total test duration 4m40.895730841s. RPS: 3474.6024693143586
+Total time for round 980000: 377.713µs. Total test duration 4m42.099202013s. RPS: 3473.9587811908755
+Total time for round 984000: 261.107µs. Total test duration 4m43.62073s. RPS: 3469.4255247139376
+Total time for round 988000: 262.328µs. Total test duration 4m44.63322353s. RPS: 3471.137303463332
+Total time for round 992000: 243.542µs. Total test duration 4m45.638699226s. RPS: 3472.922270994938
+Total time for round 996000: 254.206µs. Total test duration 4m46.648963391s. RPS: 3474.6366713401194
+Total time for round 1000000: 407.235µs. Total test duration 4m47.831733005s. RPS: 3474.255564387783
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "5573",
+    "txs": null
+  }
+}
+Total time for round 1004000: 260.433µs. Total test duration 4m49.024216901s. RPS: 3473.760817571568
+Total time for round 1008000: 259.41µs. Total test duration 4m50.036215395s. RPS: 3475.4315030183543
+Total time for round 1012000: 281.351µs. Total test duration 4m51.0742708s. RPS: 3476.7793017863673
+Total time for round 1016000: 249.671µs. Total test duration 4m52.075720283s. RPS: 3478.553434758526
+Total time for round 1020000: 344.974µs. Total test duration 4m53.332648726s. RPS: 3477.2842519578376
+Total time for round 1024000: 338.986µs. Total test duration 4m54.817807873s. RPS: 3473.334963677342
+Total time for round 1028000: 261.853µs. Total test duration 4m55.920466613s. RPS: 3473.909769628753
+Total time for round 1032000: 258.938µs. Total test duration 4m56.939461369s. RPS: 3475.4592577291555
+Total time for round 1036000: 283.045µs. Total test duration 4m57.98197336s. RPS: 3476.7237370710995
+Total time for round 1040000: 252.71µs. Total test duration 4m59.237696958s. RPS: 3475.5012840042377
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "5549",
+    "txs": null
+  }
+}
+Total time for round 1044000: 247.352µs. Total test duration 5m0.244442473s. RPS: 3477.1701064671115
+Total time for round 1048000: 246.266µs. Total test duration 5m1.254996537s. RPS: 3478.7837946159507
+Total time for round 1052000: 249.596µs. Total test duration 5m2.291203258s. RPS: 3480.0913445772235
+Total time for round 1056000: 253.04µs. Total test duration 5m3.301214523s. RPS: 3481.6906409714397
+Total time for round 1060000: 2.473962ms. Total test duration 5m4.614044849s. RPS: 3479.816567635456
+Total time for round 1064000: 306.688µs. Total test duration 5m5.940792403s. RPS: 3477.8003666750215
+Total time for round 1068000: 250.345µs. Total test duration 5m7.208454499s. RPS: 3476.4700787343613
+Total time for round 1072000: 292.902µs. Total test duration 5m8.210716789s. RPS: 3478.1431715558683
+Total time for round 1076000: 233.881µs. Total test duration 5m9.276006567s. RPS: 3479.096267258936
+Total time for round 1080000: 315.847µs. Total test duration 5m10.592489616s. RPS: 3477.228317192266
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "7117",
+    "txs": null
+  }
+}
+Total time for round 1084000: 203.668µs. Total test duration 5m11.649684226s. RPS: 3478.2676025877554
+Total time for round 1088000: 236.097µs. Total test duration 5m12.671225969s. RPS: 3479.696593852453
+Total time for round 1092000: 267.624µs. Total test duration 5m13.675468083s. RPS: 3481.3082663864916
+Total time for round 1096000: 253.959µs. Total test duration 5m14.749237674s. RPS: 3482.1402844355025
+Total time for round 1100000: 195.051µs. Total test duration 5m15.790667413s. RPS: 3483.3233325460737
+Total time for round 1104000: 254.169µs. Total test duration 5m16.823442871s. RPS: 3484.5937850928303
+Total time for round 1108000: 253.763µs. Total test duration 5m17.900029592s. RPS: 3485.375579933205
+Total time for round 1112000: 287.079µs. Total test duration 5m18.999638342s. RPS: 3485.9005037736815
+Total time for round 1116000: 261.546µs. Total test duration 5m20.091449736s. RPS: 3486.5067496193283
+Total time for round 1120000: 268.018µs. Total test duration 5m21.180116102s. RPS: 3487.1430199131987
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "5493",
+    "txs": null
+  }
+}
+Total time for round 1124000: 161.48µs. Total test duration 5m22.272891351s. RPS: 3487.7305233092243
+Total time for round 1128000: 244.425µs. Total test duration 5m23.277446322s. RPS: 3489.2659937571284
+Total time for round 1132000: 259.471µs. Total test duration 5m24.283736395s. RPS: 3490.7732733816306
+Total time for round 1136000: 265.445µs. Total test duration 5m25.287953256s. RPS: 3492.2934852923154
+Total time for round 1140000: 315.635µs. Total test duration 5m26.47404298s. RPS: 3491.8580037612273
+Total time for round 1144000: 240.613µs. Total test duration 5m27.638447172s. RPS: 3491.6567633451
+Total time for round 1148000: 230.919µs. Total test duration 5m28.649711127s. RPS: 3493.0838553403696
+Total time for round 1152000: 233.969µs. Total test duration 5m29.656194334s. RPS: 3494.552869929753
+Total time for round 1156000: 269.791µs. Total test duration 5m30.657472818s. RPS: 3496.0679707253566
+Total time for round 1160000: 284.593µs. Total test duration 5m31.814772557s. RPS: 3495.9293435337695
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "3816",
+    "txs": null
+  }
+}
+Total time for round 1164000: 233.516µs. Total test duration 5m33.502693064s. RPS: 3490.229686920775
+Total time for round 1168000: 245.665µs. Total test duration 5m34.544698615s. RPS: 3491.3152258441746
+Total time for round 1172000: 256.398µs. Total test duration 5m35.579704252s. RPS: 3492.466871953312
+Total time for round 1176000: 217.412µs. Total test duration 5m36.614978957s. RPS: 3493.608643453223
+Total time for round 1180000: 227.007µs. Total test duration 5m37.837563942s. RPS: 3492.8057917283077
+Total time for round 1184000: 247.694µs. Total test duration 5m38.927125879s. RPS: 3493.37928302233
+Total time for round 1188000: 254.282µs. Total test duration 5m39.953697596s. RPS: 3494.5964947609336
+Total time for round 1192000: 247.063µs. Total test duration 5m40.970957259s. RPS: 3495.901849184655
+Total time for round 1196000: 308.374µs. Total test duration 5m41.99497197s. RPS: 3497.130361626819
+Total time for round 1200000: 261.863µs. Total test duration 5m43.052732286s. RPS: 3498.0074112908387
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "3388",
+    "txs": null
+  }
+}
+Total time for round 1204000: 255.028µs. Total test duration 5m44.093700505s. RPS: 3499.049817631011
+Total time for round 1208000: 235.488µs. Total test duration 5m45.099236638s. RPS: 3500.44529732519
+Total time for round 1212000: 213.5µs. Total test duration 5m46.100434163s. RPS: 3501.876566352974
+Total time for round 1216000: 247.232µs. Total test duration 5m47.10422449s. RPS: 3503.273409554924
+Total time for round 1220000: 299.928µs. Total test duration 5m48.138516695s. RPS: 3504.3551388162787
+Total time for round 1224000: 307.965µs. Total test duration 5m49.423670928s. RPS: 3502.913803032565
+Total time for round 1228000: 271.156µs. Total test duration 5m50.486293055s. RPS: 3503.706205729695
+Total time for round 1232000: 264.589µs. Total test duration 5m51.488215207s. RPS: 3505.0990238021054
+Total time for round 1236000: 238.187µs. Total test duration 5m52.492444734s. RPS: 3506.4609709088054
+Total time for round 1240000: 237.024µs. Total test duration 5m53.514687241s. RPS: 3507.6364427106805
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "22223",
+    "txs": null
+  }
+}
+Total time for round 1244000: 340.929µs. Total test duration 5m54.648259535s. RPS: 3507.7036656857763
+Total time for round 1248000: 264.345µs. Total test duration 5m55.721233674s. RPS: 3508.368019278062
+Total time for round 1252000: 252.297µs. Total test duration 5m56.72522806s. RPS: 3509.706915905083
+Total time for round 1256000: 258.481µs. Total test duration 5m57.733702047s. RPS: 3510.9943312944647
+Total time for round 1260000: 210.249µs. Total test duration 5m58.734687079s. RPS: 3512.3478308149347
+Total time for round 1264000: 337.155µs. Total test duration 5m59.799528552s. RPS: 3513.0701951915435
+Total time for round 1268000: 252.603µs. Total test duration 6m1.503574068s. RPS: 3507.5752799099155
+Total time for round 1272000: 239.311µs. Total test duration 6m2.507462663s. RPS: 3508.8960394244295
+Total time for round 1276000: 280.558µs. Total test duration 6m3.510470368s. RPS: 3510.2180102494426
+Total time for round 1280000: 230.821µs. Total test duration 6m4.518687993s. RPS: 3511.4825169802552
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "20447",
+    "txs": null
+  }
+}
+Total time for round 1284000: 246.733µs. Total test duration 6m5.700855648s. RPS: 3511.0691707976102
+Total time for round 1288000: 264.053µs. Total test duration 6m6.73241378s. RPS: 3512.100244219651
+Total time for round 1292000: 274.955µs. Total test duration 6m7.746461303s. RPS: 3513.29281435416
+Total time for round 1296000: 230.654µs. Total test duration 6m8.757982345s. RPS: 3514.502904475425
+Total time for round 1300000: 250.721µs. Total test duration 6m9.763218902s. RPS: 3515.766126929312
+Total time for round 1304000: 258.801µs. Total test duration 6m10.863705713s. RPS: 3516.1192101367997
+Total time for round 1308000: 342.657µs. Total test duration 6m12.024316477s. RPS: 3515.901896915025
+Total time for round 1312000: 274.585µs. Total test duration 6m13.030991368s. RPS: 3517.136726867001
+Total time for round 1316000: 254.232µs. Total test duration 6m14.035472806s. RPS: 3518.3855427599156
+Total time for round 1320000: 245.913µs. Total test duration 6m15.037700597s. RPS: 3519.6488190354453
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "19727",
+    "txs": null
+  }
+}
+Total time for round 1324000: 230.217µs. Total test duration 6m16.081315709s. RPS: 3520.5178898716435
+Total time for round 1328000: 247.787µs. Total test duration 6m17.093690815s. RPS: 3521.673876669312
+Total time for round 1332000: 254.373µs. Total test duration 6m18.104703328s. RPS: 3522.8363685402496
+Total time for round 1336000: 262.037µs. Total test duration 6m19.110486174s. RPS: 3524.0412721974058
+Total time for round 1340000: 294.537µs. Total test duration 6m20.14123894s. RPS: 3525.0082409804018
+Total time for round 1344000: 252.057µs. Total test duration 6m21.153448791s. RPS: 3526.1415166597735
+Total time for round 1348000: 254.407µs. Total test duration 6m22.211960669s. RPS: 3526.841487745551
+Total time for round 1352000: 239.262µs. Total test duration 6m23.211965259s. RPS: 3528.076162982615
+Total time for round 1356000: 248.655µs. Total test duration 6m24.21421894s. RPS: 3529.283751499465
+Total time for round 1360000: 273.975µs. Total test duration 6m25.214480399s. RPS: 3530.503314909993
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "17185",
+    "txs": null
+  }
+}
+Total time for round 1364000: 254.606µs. Total test duration 6m26.217467532s. RPS: 3531.691636621759
+Total time for round 1368000: 389.371µs. Total test duration 6m27.305645555s. RPS: 3532.0967192194844
+Total time for round 1372000: 342.98µs. Total test duration 6m29.060078527s. RPS: 3526.4502212472203
+Total time for round 1376000: 256.337µs. Total test duration 6m30.324480703s. RPS: 3525.2746574381704
+Total time for round 1380000: 244.439µs. Total test duration 6m31.324961914s. RPS: 3526.483445498367
+Total time for round 1384000: 258.601µs. Total test duration 6m32.336440719s. RPS: 3527.587183753986
+Total time for round 1388000: 551.881µs. Total test duration 6m33.840529838s. RPS: 3524.2716146327857
+Total time for round 1392000: 264.037µs. Total test duration 6m35.246960187s. RPS: 3521.8512479929354
+Total time for round 1396000: 233.285µs. Total test duration 6m36.247206991s. RPS: 3523.0557474483535
+Total time for round 1400000: 273.964µs. Total test duration 6m37.249741265s. RPS: 3524.233887583776
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "17624",
+    "txs": null
+  }
+}
+Total time for round 1404000: 210.86µs. Total test duration 6m38.326924613s. RPS: 3524.7454119855856
+Total time for round 1408000: 242.229µs. Total test duration 6m39.491515273s. RPS: 3524.4828642676334
+Total time for round 1412000: 206.816µs. Total test duration 6m40.492436758s. RPS: 3525.6620859814393
+Total time for round 1416000: 244.153µs. Total test duration 6m41.517718343s. RPS: 3526.6214548229946
+Total time for round 1420000: 284.317µs. Total test duration 6m42.521459609s. RPS: 3527.7647094377426
+Total time for round 1424000: 272.138µs. Total test duration 6m43.557484971s. RPS: 3528.6199687321623
+Total time for round 1428000: 346.606µs. Total test duration 6m44.799568868s. RPS: 3527.674211692782
+Total time for round 1432000: 225.516µs. Total test duration 6m46.113327301s. RPS: 3526.111810998609
+Total time for round 1436000: 250.29µs. Total test duration 6m47.139455817s. RPS: 3527.0494654427453
+Total time for round 1440000: 262.565µs. Total test duration 6m48.15396692s. RPS: 3528.082823417092
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "17886",
+    "txs": null
+  }
+}
+Total time for round 1444000: 273.719µs. Total test duration 6m49.235549212s. RPS: 3528.5326574890273
+Total time for round 1448000: 320.104µs. Total test duration 6m50.529474422s. RPS: 3527.15478477811
+Total time for round 1452000: 196.903µs. Total test duration 6m51.693934493s. RPS: 3526.894322084525
+Total time for round 1456000: 261.826µs. Total test duration 6m52.695219855s. RPS: 3528.0297176971526
+Total time for round 1460000: 232.99µs. Total test duration 6m53.697442032s. RPS: 3529.1516254699663
+Total time for round 1464000: 263.368µs. Total test duration 6m54.742986469s. RPS: 3529.8993539687667
+Total time for round 1468000: 203.254µs. Total test duration 6m55.748190637s. RPS: 3530.9859021894044
+Total time for round 1472000: 264.566µs. Total test duration 6m56.750479261s. RPS: 3532.0919189108454
+Total time for round 1476000: 265.215µs. Total test duration 6m57.753470055s. RPS: 3533.1866897614873
+Total time for round 1480000: 248.698µs. Total test duration 6m58.783945404s. RPS: 3534.0442637366295
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "18788",
+    "txs": null
+  }
+}
+Total time for round 1484000: 251.878µs. Total test duration 6m59.819701162s. RPS: 3534.8531664724183
+Total time for round 1488000: 251.303µs. Total test duration 7m0.854453793s. RPS: 3535.666515084293
+Total time for round 1492000: 245.89µs. Total test duration 7m1.86694552s. RPS: 3536.662485279418
+Total time for round 1496000: 237.63µs. Total test duration 7m2.866957525s. RPS: 3537.758090052605
+Total time for round 1500000: 229.988µs. Total test duration 7m3.87495851s. RPS: 3538.7818267745397
+Total time for round 1504000: 237.206µs. Total test duration 7m4.880696834s. RPS: 3539.819556894603
+Total time for round 1508000: 235.932µs. Total test duration 7m5.893443091s. RPS: 3540.794122246648
+Total time for round 1512000: 558.142µs. Total test duration 7m7.159858864s. RPS: 3539.660781846531
+Total time for round 1516000: 253.874µs. Total test duration 7m8.431669291s. RPS: 3538.4895857693928
+Total time for round 1520000: 240.3µs. Total test duration 7m9.440961821s. RPS: 3539.4876947801927
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "13625",
+    "txs": null
+  }
+}
+Total time for round 1524000: 266.901µs. Total test duration 7m10.454213342s. RPS: 3540.4485605282403
+Total time for round 1528000: 260.339µs. Total test duration 7m11.473493064s. RPS: 3541.355435647476
+Total time for round 1532000: 519.277µs. Total test duration 7m12.845023315s. RPS: 3539.3753363893866
+Total time for round 1536000: 283.928µs. Total test duration 7m14.26124599s. RPS: 3537.0436901370895
+Total time for round 1540000: 254.279µs. Total test duration 7m15.261718417s. RPS: 3538.1034785250995
+Total time for round 1544000: 249.685µs. Total test duration 7m16.264984031s. RPS: 3539.135746659619
+Total time for round 1548000: 236.767µs. Total test duration 7m17.307722265s. RPS: 3539.843732880485
+Total time for round 1552000: 456.909µs. Total test duration 7m18.810601737s. RPS: 3536.8356959848197
+Total time for round 1556000: 271.815µs. Total test duration 7m20.118502404s. RPS: 3535.4137385746462
+Total time for round 1560000: 246.008µs. Total test duration 7m21.124946593s. RPS: 3536.4152765527474
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "14337",
+    "txs": null
+  }
+}
+Total time for round 1564000: 208.971µs. Total test duration 7m22.125678412s. RPS: 3537.457959052465
+Total time for round 1568000: 182.043µs. Total test duration 7m23.175654998s. RPS: 3538.1027416929664
+Total time for round 1572000: 411.794µs. Total test duration 7m25.048168646s. RPS: 3532.2041764211826
+Total time for round 1576000: 260.981µs. Total test duration 7m26.310763924s. RPS: 3531.174077326016
+Total time for round 1580000: 250.691µs. Total test duration 7m27.317459121s. RPS: 3532.1693079111574
+Total time for round 1584000: 219.399µs. Total test duration 7m28.333215886s. RPS: 3533.0886578851478
+Total time for round 1588000: 422.343µs. Total test duration 7m29.834144127s. RPS: 3530.1922291422716
+Total time for round 1592000: 245.889µs. Total test duration 7m30.953465393s. RPS: 3530.299958140009
+Total time for round 1596000: 251.701µs. Total test duration 7m31.958964305s. RPS: 3531.2962592837403
+Total time for round 1600000: 264.727µs. Total test duration 7m32.962729396s. RPS: 3532.301657872625
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "18041",
+    "txs": null
+  }
+}
+Total time for round 1604000: 263.84µs. Total test duration 7m34.081750152s. RPS: 3532.4057825778605
+Total time for round 1608000: 361.336µs. Total test duration 7m35.599894801s. RPS: 3529.4147745630044
+Total time for round 1612000: 262.852µs. Total test duration 7m36.836776559s. RPS: 3528.6147760299937
+Total time for round 1616000: 235.76µs. Total test duration 7m37.856195305s. RPS: 3529.4946679131513
+Total time for round 1620000: 255.513µs. Total test duration 7m38.861965615s. RPS: 3530.4756580309668
+Total time for round 1624000: 249.99µs. Total test duration 7m39.898947891s. RPS: 3531.212688020548
+Total time for round 1628000: 256.457µs. Total test duration 7m40.939717523s. RPS: 3531.917381189365
+Total time for round 1632000: 260.222µs. Total test duration 7m41.943713732s. RPS: 3532.900116369626
+Total time for round 1636000: 244.755µs. Total test duration 7m42.945962912s. RPS: 3533.891924900493
+Total time for round 1640000: 249.304µs. Total test duration 7m43.949695551s. RPS: 3534.868145677491
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "19470",
+    "txs": null
+  }
+}
+Total time for round 1644000: 300.37µs. Total test duration 7m44.97907373s. RPS: 3535.645135192953
+Total time for round 1648000: 501.252µs. Total test duration 7m46.497346601s. RPS: 3532.7124838065847
+Total time for round 1652000: 238.364µs. Total test duration 7m47.65048892s. RPS: 3532.554844142597
+Total time for round 1656000: 249.05µs. Total test duration 7m48.650946889s. RPS: 3533.5488192072808
+Total time for round 1660000: 231.625µs. Total test duration 7m49.654716227s. RPS: 3534.513638733834
+Total time for round 1664000: 313.523µs. Total test duration 7m50.705068637s. RPS: 3535.124456633481
+Total time for round 1668000: 244.918µs. Total test duration 7m51.944200136s. RPS: 3534.318251012159
+Total time for round 1672000: 204.057µs. Total test duration 7m52.959969109s. RPS: 3535.185024537806
+Total time for round 1676000: 208.775µs. Total test duration 7m53.978196788s. RPS: 3536.0297400971763
+Total time for round 1680000: 242.854µs. Total test duration 7m54.982188891s. RPS: 3536.976836799938
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "19041",
+    "txs": null
+  }
+}
+Total time for round 1684000: 239.975µs. Total test duration 7m56.002189892s. RPS: 3537.8009508361347
+Total time for round 1688000: 357.532µs. Total test duration 7m57.205436525s. RPS: 3537.2627191592533
+Total time for round 1692000: 243.797µs. Total test duration 7m58.515185039s. RPS: 3535.940034718226
+Total time for round 1696000: 258.868µs. Total test duration 7m59.520712399s. RPS: 3536.8670344082866
+Total time for round 1700000: 259.968µs. Total test duration 8m0.522472598s. RPS: 3537.817889783071
+Total time for round 1704000: 248.862µs. Total test duration 8m1.53844917s. RPS: 3538.6603145337367
+Total time for round 1708000: 511.299µs. Total test duration 8m2.883660436s. RPS: 3537.0859276079677
+Total time for round 1712000: 254.092µs. Total test duration 8m4.265220376s. RPS: 3535.254913972026
+Total time for round 1716000: 266.83µs. Total test duration 8m5.268233569s. RPS: 3536.190670012202
+Total time for round 1720000: 243.742µs. Total test duration 8m6.278699918s. RPS: 3537.0683525518175
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "17485",
+    "txs": null
+  }
+}
+Total time for round 1724000: 238.345µs. Total test duration 8m7.490014506s. RPS: 3536.484745737866
+Total time for round 1728000: 317.37µs. Total test duration 8m8.790260589s. RPS: 3535.2607024487997
+Total time for round 1732000: 212.378µs. Total test duration 8m9.792668718s. RPS: 3536.1921699101754
+Total time for round 1736000: 311.926µs. Total test duration 8m10.80154755s. RPS: 3537.0731992713336
+Total time for round 1740000: 261.724µs. Total test duration 8m11.810207052s. RPS: 3537.952191821888
+Total time for round 1744000: 741.165µs. Total test duration 8m12.896575844s. RPS: 3538.2696603515665
+Total time for round 1748000: 328.287µs. Total test duration 8m14.202072497s. RPS: 3537.0167331918888
+Total time for round 1752000: 179.89µs. Total test duration 8m15.303399989s. RPS: 3537.2278890855778
+Total time for round 1756000: 258.794µs. Total test duration 8m16.322203377s. RPS: 3538.02628222571
+Total time for round 1760000: 270.603µs. Total test duration 8m17.362723713s. RPS: 3538.666884524296
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "18174",
+    "txs": null
+  }
+}
+Total time for round 1764000: 276.152µs. Total test duration 8m18.480254714s. RPS: 3538.7580216433744
+Total time for round 1768000: 257.861µs. Total test duration 8m19.918514196s. RPS: 3536.578361862451
+Total time for round 1772000: 231.812µs. Total test duration 8m20.931689636s. RPS: 3537.4104626673097
+Total time for round 1776000: 286.867µs. Total test duration 8m21.931729754s. RPS: 3538.3317983711245
+Total time for round 1780000: 246.439µs. Total test duration 8m22.93444259s. RPS: 3539.2306616214087
+Total time for round 1784000: 406.63µs. Total test duration 8m24.097853955s. RPS: 3538.997410925806
+Total time for round 1788000: 283.015µs. Total test duration 8m25.61207955s. RPS: 3536.3098951103766
+Total time for round 1792000: 247.431µs. Total test duration 8m26.618198015s. RPS: 3537.182452231892
+Total time for round 1796000: 242.998µs. Total test duration 8m27.620442956s. RPS: 3538.0785484946978
+Total time for round 1800000: 256.677µs. Total test duration 8m28.623203357s. RPS: 3538.9675266871154
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "19218",
+    "txs": null
+  }
+}
+Total time for round 1804000: 288.829µs. Total test duration 8m29.769761614s. RPS: 3538.854470866002
+Total time for round 1808000: 281.728µs. Total test duration 8m30.96087134s. RPS: 3538.4333740830275
+Total time for round 1812000: 187.845µs. Total test duration 8m31.981906822s. RPS: 3539.1895218476457
+Total time for round 1816000: 229.001µs. Total test duration 8m32.985184079s. RPS: 3540.0652033652786
+Total time for round 1820000: 261.938µs. Total test duration 8m33.990753492s. RPS: 3540.9216754097256
+Total time for round 1824000: 278.751µs. Total test duration 8m35.119726011s. RPS: 3540.926328185401
+Total time for round 1828000: 320.631µs. Total test duration 8m36.648527221s. RPS: 3538.1906725499284
+Total time for round 1832000: 247.764µs. Total test duration 8m37.960004862s. RPS: 3536.954557887341
+Total time for round 1836000: 286.931µs. Total test duration 8m38.977945759s. RPS: 3537.7245121945734
+Total time for round 1840000: 230.026µs. Total test duration 8m39.990220392s. RPS: 3538.5300104546122
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "19508",
+    "txs": null
+  }
+}
+Total time for round 1844000: 347.342µs. Total test duration 8m41.220955944s. RPS: 3537.8489275441175
+Total time for round 1848000: 300.743µs. Total test duration 8m42.678006376s. RPS: 3535.639490196187
+Total time for round 1852000: 412.317µs. Total test duration 8m44.149321594s. RPS: 3533.346173887712
+Total time for round 1856000: 264.166µs. Total test duration 8m45.417452416s. RPS: 3532.4311963099935
+Total time for round 1860000: 498.287µs. Total test duration 8m46.598636583s. RPS: 3532.1037138819775
+Total time for round 1864000: 408.665µs. Total test duration 8m47.900777225s. RPS: 3530.968470625176
+Total time for round 1868000: 226.356µs. Total test duration 8m48.933452541s. RPS: 3531.6370916343258
+Total time for round 1872000: 258.248µs. Total test duration 8m49.942947428s. RPS: 3532.457614702641
+Total time for round 1876000: 270.193µs. Total test duration 8m50.956227761s. RPS: 3533.2498272238868
+Total time for round 1880000: 237.864µs. Total test duration 8m52.073544675s. RPS: 3533.348009528153
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "4709",
+    "txs": null
+  }
+}
+Total time for round 1884000: 237.316µs. Total test duration 8m53.094194299s. RPS: 3534.086508815566
+Total time for round 1888000: 251.845µs. Total test duration 8m54.098196689s. RPS: 3534.9323620715463
+Total time for round 1892000: 244.595µs. Total test duration 8m55.099448446s. RPS: 3535.7932165593193
+Total time for round 1896000: 244.572µs. Total test duration 8m56.144748865s. RPS: 3536.3602907867116
+Total time for round 1900000: 299.119µs. Total test duration 8m57.221038463s. RPS: 3536.7211333270575
+Total time for round 1904000: 329.988µs. Total test duration 8m58.789887094s. RPS: 3533.846951488565
+Total time for round 1908000: 222.161µs. Total test duration 9m0.130961288s. RPS: 3532.478485310614
+Total time for round 1912000: 274.582µs. Total test duration 9m1.151493978s. RPS: 3533.208392246868
+Total time for round 1916000: 255.231µs. Total test duration 9m2.179454962s. RPS: 3533.8871336138836
+Total time for round 1920000: 516.552µs. Total test duration 9m3.559873156s. RPS: 3532.271410787098
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "5165",
+    "txs": null
+  }
+}
+Total time for round 1924000: 238.806µs. Total test duration 9m5.09444353s. RPS: 3529.6654053933867
+Total time for round 1928000: 240.423µs. Total test duration 9m6.101688514s. RPS: 3530.4798365416027
+Total time for round 1932000: 263.544µs. Total test duration 9m7.105237508s. RPS: 3531.3151246733396
+Total time for round 1936000: 266.509µs. Total test duration 9m8.119463361s. RPS: 3532.0785511404465
+Total time for round 1940000: 244.96µs. Total test duration 9m9.172701631s. RPS: 3532.588189905195
+Total time for round 1944000: 248.897µs. Total test duration 9m10.175712722s. RPS: 3533.418424419419
+Total time for round 1948000: 257.558µs. Total test duration 9m11.197718522s. RPS: 3534.12384438643
+Total time for round 1952000: 256.41µs. Total test duration 9m12.202205091s. RPS: 3534.938799598456
+Total time for round 1956000: 290.219µs. Total test duration 9m13.208752802s. RPS: 3535.7376218161103
+Total time for round 1960000: 595.516µs. Total test duration 9m14.404827528s. RPS: 3535.324554692863
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "4848",
+    "txs": null
+  }
+}
+Total time for round 1964000: 424.5µs. Total test duration 9m16.18210128s. RPS: 3531.219353301804
+Total time for round 1968000: 195.254µs. Total test duration 9m17.377928414s. RPS: 3530.819753842568
+Total time for round 1972000: 244.903µs. Total test duration 9m18.380725594s. RPS: 3531.6423178866075
+Total time for round 1976000: 263.367µs. Total test duration 9m19.485513216s. RPS: 3531.817988711939
+Total time for round 1980000: 266.178µs. Total test duration 9m20.685022352s. RPS: 3531.396276101965
+Total time for round 1984000: 225.875µs. Total test duration 9m21.687221068s. RPS: 3532.2167312754464
+Total time for round 1988000: 241.954µs. Total test duration 9m22.718443699s. RPS: 3532.8520368587538
+Total time for round 1992000: 254.909µs. Total test duration 9m23.728480886s. RPS: 3533.6178098882187
+Total time for round 1996000: 248.553µs. Total test duration 9m24.794990217s. RPS: 3534.0274516831605
+Total time for round 2000000: 198.53µs. Total test duration 9m25.834901836s. RPS: 3534.601689486582
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "6262",
+    "txs": null
+  }
+}
+Total time for round 2004000: 252.328µs. Total test duration 9m26.853441983s. RPS: 3535.3071033484175
+Total time for round 2008000: 225.149µs. Total test duration 9m27.863439228s. RPS: 3536.0631822500154
+Total time for round 2012000: 257.324µs. Total test duration 9m28.874208822s. RPS: 3536.8117745509403
+Total time for round 2016000: 294.893µs. Total test duration 9m29.875464986s. RPS: 3537.6167669361353
+Total time for round 2020000: 277.024µs. Total test duration 9m31.211036497s. RPS: 3536.3479886310092
+Total time for round 2024000: 237.638µs. Total test duration 9m32.423968887s. RPS: 3535.842504875176
+Total time for round 2028000: 332.002µs. Total test duration 9m33.60554885s. RPS: 3535.532395155281
+Total time for round 2032000: 246.116µs. Total test duration 9m34.854704655s. RPS: 3534.807984601098
+Total time for round 2036000: 211.004µs. Total test duration 9m35.957223146s. RPS: 3534.9864854180187
+Total time for round 2040000: 422.737µs. Total test duration 9m37.513678862s. RPS: 3532.3855947790794
+Has Unconfirmed Txs {
+  "jsonrpc": "2.0",
+  "id": "",
+  "result": {
+    "n_txs": "6258",
+    "txs": null
+  }
+}
+Total time for round 2044000: 273.401µs. Total test duration 9m38.566486321s. RPS: 3532.8714129251316
+Total time for round 2048000: 241.398µs. Total test duration 9m39.573702931s. RPS: 3533.633409595571
+Total time for round 2052000: 238.302µs. Total test duration 9m40.63621454s. RPS: 3534.0561759925117
+Total time for round 2056000: 243.325µs. Total test duration 9m41.735995762s. RPS: 3534.2509574414435
+Total time for round 2060000: 401.699µs. Total test duration 9m43.446183428s. RPS: 3530.7472368687004
+signal: interrupt

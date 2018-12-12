@@ -1,0 +1,28 @@
+docker-compose down
+Removing network tendermint_localnet
+Network tendermint_localnet not found.
+docker-compose up
+Creating network "tendermint_localnet" with driver "bridge"
+Creating node0 ... 
+Creating node3 ... 
+Creating node1 ... 
+Creating node2 ... 
+[4A[2KCreating node0 ... [32mdone[0m[4B[2A[2KCreating node1 ... [32mdone[0m[2B[1A[2KCreating node2 ... [32mdone[0m[1B[3A[2KCreating node3 ... [32mdone[0m[3BAttaching to node0, node1, node2, node3
+[36mnode0    |[0m E[29116-11-29|15:22:06.241] Dialing failed                               module=p2p addr=18664ebbf6ddda4cc2a4490f613381efadcddb91@192.167.10.4:26656 err="dial tcp 192.167.10.4:26656: i/o timeout" attempts=0
+[36mnode0    |[0m E[29116-11-29|15:22:06.241] Dialing failed                               module=p2p addr=b2c54ad91f68179f8c5d7db4640a4b55453e37c3@192.167.10.5:26656 err="dial tcp 192.167.10.5:26656: i/o timeout" attempts=0
+[36mnode0    |[0m E[29116-11-29|15:22:07.691] Error dialing peer                           module=p2p err="dial tcp 192.167.10.5:26656: i/o timeout"
+[32mnode2    |[0m E[29116-11-29|15:22:07.243] Dialing failed                               module=p2p addr=a094bd7fe922a0b7ef2511f76d7658336e360645@192.167.10.2:26656 err="duplicate ID<a094bd7fe922a0b7ef2511f76d7658336e360645>" attempts=0
+[33mnode1    |[0m E[29116-11-29|15:22:05.951] Connection failed @ recvRoutine (reading byte) module=p2p peer=a094bd7fe922a0b7ef2511f76d7658336e360645@0.0.0.0:26656 conn=MConn{192.167.10.2:26656} err=EOF
+[33mnode1    |[0m E[29116-11-29|15:22:05.951] Stopping peer for error                      module=p2p peer="Peer{MConn{192.167.10.2:26656} a094bd7fe922a0b7ef2511f76d7658336e360645 out}" err=EOF
+[33mnode1    |[0m E[29116-11-29|15:22:06.951] Dialing failed                               module=p2p addr=18664ebbf6ddda4cc2a4490f613381efadcddb91@192.167.10.4:26656 err="dial tcp 192.167.10.4:26656: i/o timeout" attempts=0
+[33mnode1    |[0m E[29116-11-29|15:22:06.953] Dialing failed                               module=p2p addr=b2c54ad91f68179f8c5d7db4640a4b55453e37c3@192.167.10.5:26656 err="dial tcp 192.167.10.5:26656: i/o timeout" attempts=0
+[32mnode2    |[0m E[29116-11-29|15:22:08.241] Dialing failed                               module=p2p addr=b2c54ad91f68179f8c5d7db4640a4b55453e37c3@192.167.10.5:26656 err="dial tcp 192.167.10.5:26656: i/o timeout" attempts=0
+[36mnode0    |[0m E[29116-11-29|15:22:35.308] Dialing failed                               module=p2p addr=a094bd7fe922a0b7ef2511f76d7658336e360645@192.167.10.2:26656 err="self ID<a094bd7fe922a0b7ef2511f76d7658336e360645>" attempts=0
+[32mnode2    |[0m E[29116-11-29|15:22:37.304] Dialing failed                               module=p2p addr=18664ebbf6ddda4cc2a4490f613381efadcddb91@192.167.10.4:26656 err="self ID<18664ebbf6ddda4cc2a4490f613381efadcddb91>" attempts=0
+[35mnode3    |[0m E[29116-11-29|15:22:38.400] Dialing failed                               module=p2p addr=b2c54ad91f68179f8c5d7db4640a4b55453e37c3@192.167.10.5:26656 err="self ID<b2c54ad91f68179f8c5d7db4640a4b55453e37c3>" attempts=0
+[33mnode1    |[0m E[29116-11-29|15:23:06.022] Dialing failed                               module=p2p addr=e85d7682243115045df5fde582c79f474e1ebc2d@192.167.10.3:26656 err="self ID<e85d7682243115045df5fde582c79f474e1ebc2d>" attempts=0
+[35mnode3 exited with code 137
+[0m[36mnode0 exited with code 137
+[0m[32mnode2 exited with code 137
+[0m[33mnode1 exited with code 137
+[0m
